@@ -1,1 +1,1 @@
-# wed_class-git
+# wed-class-git
